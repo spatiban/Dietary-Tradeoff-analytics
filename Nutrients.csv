@@ -1,0 +1,199 @@
+Key,name,serving_size,vitamin_A_pcent,calories,calories_from_fat,carbs_in_grams,carbs_pcent,cholesterol_mg,cholesterol_pcent,fat_in_grams,fat_pcent,fiber_grams,fiber_pcent,potassium_in_mg,potassium_pcent,protein_in_grams,saturated_fat_pcent,saturated_fat_in_grams,sodium_in_mg,sodium_pcent,sugar_in_grams,vitamin_C_pcent
+1,"Sausage, Mushroom and Broccoli Quiche Recipe",137.2g,2%,142,37,6.2g,2%,36mg,12%,4.1g,6%,0.9g,4%,304mg,9%,19.2g,7%,1.5g,129mg,5%,0.8g,17%
+2,Skinny Soup Recipe,249.7g,37%,51,8,7.7g,3%,0mg,0%,0.9g,1%,2.3g,9%,434mg,12%,3.9g,1%,0.2g,413mg,17%,3.9g,35%
+3,Mexican Pita Pizzas Recipe,180.0g,10%,230,56,32.2g,11%,22mg,7%,6.2g,10%,5.2g,21%,374mg,11%,11.4g,17%,3.5g,618mg,26%,3.3g,16%
+4,Chicken & Broccoli Bow-Tie Pasta Recipe,131.1g,7%,196,40,24.8g,8%,26mg,9%,4.5g,7%,1.8g,7%,151mg,4%,14.5g,5%,1.1g,157mg,7%,1.1g,64%
+5,Keri's Meatloaf Recipe,155.5g,7%,246,71,16.1g,5%,111mg,37%,7.9g,12%,1.2g,5%,475mg,14%,26.2g,16%,3.1g,433mg,18%,5.5g,8%
+6,Shrimp & Asparagus Pasta Recipe,216.7g,29%,244,48,25.4g,8%,179mg,60%,5.3g,8%,2.2g,9%,417mg,12%,23.6g,7%,1.4g,245mg,10%,2.3g,74%
+7,Chicken Bacon Ranch Pasta Salad Recipe,133.7g,8%,223,46,29.5g,10%,24mg,8%,5.1g,8%,1.2g,5%,243mg,7%,13.7g,7%,1.5g,319mg,13%,2.1g,7%
+8,Baked Chicken and Broccoli Recipe,305.2g,9%,356,83,7.5g,2%,148mg,49%,9.2g,14%,1.6g,6%,589mg,17%,57.9g,13%,2.6g,412mg,17%,2.3g,85%
+9,Low Fat Alfredo Sauce Recipe,98.2g,6%,92,32,6.6g,2%,13mg,4%,3.6g,6%,0.1g,0%,102mg,3%,7.8g,11%,2.2g,518mg,22%,4.2g,1%
+10,Savory Golden Lentil and Sweet Potato Soup Recipe,191.5g,34%,160,15,19.7g,7%,27mg,9%,1.7g,3%,7.2g,29%,484mg,14%,15.6g,2%,0.3g,68mg,3%,2.5g,13%
+11,Tex-Mex Summer Squash Casserole Recipe,220.4g,82%,196,86,20.3g,7%,27mg,9%,9.6g,15%,7.1g,28%,643mg,18%,9.8g,27%,5.5g,374mg,16%,7.2g,42%
+12,Lean Meatloaf Recipe,169.9g,22%,179,45,9.5g,3%,80mg,27%,5.0g,8%,2.4g,10%,234mg,7%,24.5g,7%,1.3g,178mg,7%,2.3g,26%
+13,Claire's Chicken Mexicana Recipe,230.0g,10%,184,31,16.3g,5%,66mg,22%,3.4g,5%,3.2g,13%,314mg,9%,26.1g,3%,0.6g,438mg,18%,4.1g,21%
+14,Chicken Pasta Casserole Recipe,187.0g,12%,233,57,19.7g,7%,56mg,19%,6.3g,10%,1.1g,4%,269mg,8%,22.8g,12%,2.4g,262mg,11%,1.8g,65%
+15,Jill's Beef Barley Stew Recipe,272.0g,41%,299,31,44.1g,15%,40mg,13%,3.5g,5%,10.4g,42%,923mg,26%,23.7g,6%,1.2g,120mg,5%,5.7g,37%
+16,Crock Pot Pork Tenderloin Recipe,202.0g,0%,182,52,4.6g,2%,67mg,22%,5.8g,9%,0.6g,2%,518mg,15%,26.3g,9%,1.8g,643mg,27%,0.8g,2%
+17,Bran Muffins Recipe,66.6g,1%,100,7,21.1g,7%,27mg,9%,0.8g,1%,1.5g,6%,226mg,6%,2.9g,1%,0.2g,126mg,5%,8.4g,5%
+18,Dijion Chicken Recipe,50.5g,0%,43,32,1.9g,1%,0mg,0%,3.6g,6%,0.2g,1%,53mg,2%,0.8g,3%,0.5g,163mg,7%,0.6g,2%
+19,Ginger-Honey Glazed Barbecued Chicken Breasts Recipe,134.1g,0%,249,37,16.4g,5%,96mg,32%,4.1g,6%,0.1g,0%,316mg,9%,35.3g,5%,1.1g,85mg,4%,15.5g,1%
+20,Loaded Baked Potato Soup Recipe,368.6g,9%,323,163,21.4g,7%,49mg,16%,18.1g,28%,2.6g,10%,777mg,22%,17.8g,45%,9.1g,975mg,41%,4.5g,36%
+21,Tomato & Basil Pita Pizzas Recipe,129.7g,11%,199,15,38.0g,13%,2mg,1%,1.7g,3%,5.2g,21%,195mg,6%,10.6g,1%,0.2g,382mg,16%,2.3g,7%
+22,Garlic Herb Crusted Chicken Recipe,154.5g,4%,362,81,31.1g,10%,101mg,34%,9.0g,14%,2.4g,10%,425mg,12%,37.3g,12%,2.4g,101mg,4%,2.4g,4%
+23,Broccoli Cheese Soup Recipe,390.7g,55%,302,180,14.5g,5%,58mg,19%,20.0g,31%,1.8g,7%,378mg,11%,16.8g,57%,11.5g,1086mg,45%,5.0g,88%
+24,Crab Cakes Recipe,69.1g,2%,98,32,10.4g,3%,9mg,3%,3.6g,6%,0.1g,0%,29mg,1%,5.2g,2%,0.4g,390mg,16%,0.3g,3%
+25,Chicken Fried Rice Recipe,171.5g,2%,241,75,23.9g,8%,123mg,41%,8.3g,13%,0.6g,2%,187mg,5%,16.1g,8%,1.5g,517mg,22%,1.0g,1%
+26,Asian Tuna Patties Recipe,90.2g,4%,145,55,3.8g,1%,18mg,6%,6.1g,9%,0.4g,2%,283mg,8%,17.7g,5%,1.1g,365mg,15%,1.2g,3%
+27,Low Cal Chicken Burrito with Veggies Recipe,215.0g,13%,208,30,17.1g,6%,65mg,22%,3.3g,5%,2.5g,10%,416mg,12%,26.9g,4%,0.8g,678mg,28%,3.3g,19%
+28,Szechuan Chicken Recipe,233.8g,4%,331,56,10.4g,3%,146mg,49%,6.2g,10%,0.6g,2%,527mg,15%,54.8g,9%,1.7g,1273mg,53%,2.0g,5%
+29,Stuffed Peppers Recipe,332.8g,14%,222,46,24.0g,8%,44mg,15%,5.1g,8%,3.7g,15%,508mg,15%,21.0g,11%,2.2g,555mg,23%,6.7g,168%
+30,Chicken Enchiladas Recipe,140.2g,9%,272,140,18.5g,6%,53mg,18%,15.6g,24%,2.4g,10%,226mg,6%,15.2g,40%,7.9g,587mg,24%,0.2g,2%
+31,Chicken Pot Pie Recipe,113.6g,2%,150,45,17.7g,6%,14mg,5%,5.0g,8%,1.4g,6%,166mg,5%,7.8g,7%,1.4g,281mg,12%,1.0g,13%
+32,Garlic Shrimp Pasta Recipe,268.0g,94%,288,47,31.6g,11%,225mg,75%,5.2g,8%,2.5g,10%,650mg,19%,28.7g,4%,0.9g,302mg,13%,3.1g,52%
+33,Chicken Wrap Recipe,180.6g,9%,233,76,10.2g,3%,80mg,27%,8.4g,13%,1.2g,5%,383mg,11%,28.3g,14%,2.8g,144mg,6%,1.9g,9%
+34,Black Beans with Peppers and Onions Recipe,193.4g,42%,200,23,36.4g,12%,0mg,0%,2.5g,4%,8.9g,36%,893mg,26%,10.3g,2%,0.4g,7mg,0%,6.5g,247%
+35,Mozzarella Chicken Recipe,234.2g,8%,308,55,30.5g,10%,102mg,34%,6.1g,9%,1.9g,8%,367mg,10%,30.4g,9%,1.8g,283mg,12%,2.9g,6%
+36,Aloha Chicken Recipe,176.0g,3%,290,36,32.4g,11%,73mg,24%,4.0g,6%,1.9g,8%,422mg,12%,29.8g,5%,1.0g,359mg,15%,5.6g,23%
+37,Pesto Recipe,21.9g,11%,63,50,1.8g,1%,3mg,1%,5.5g,8%,0.6g,2%,87mg,2%,2.1g,5%,0.9g,49mg,2%,0.2g,4%
+38,Delicious Skillet Chicken Recipe,610.2g,113%,353,119,22.3g,7%,102mg,34%,13.2g,20%,6.3g,25%,1433mg,41%,37.8g,16%,3.2g,448mg,19%,13.6g,100%
+39,Black Beans with Peppers and Onions Recipe,193.4g,42%,200,23,36.4g,12%,0mg,0%,2.5g,4%,8.9g,36%,893mg,26%,10.3g,2%,0.4g,7mg,0%,6.5g,247%
+40,Mozzarella Chicken Recipe,234.2g,8%,308,55,30.5g,10%,102mg,34%,6.1g,9%,1.9g,8%,367mg,10%,30.4g,9%,1.8g,283mg,12%,2.9g,6%
+41,Aloha Chicken Recipe,176.0g,3%,290,36,32.4g,11%,73mg,24%,4.0g,6%,1.9g,8%,422mg,12%,29.8g,5%,1.0g,359mg,15%,5.6g,23%
+42,Pesto Recipe,21.9g,11%,63,50,1.8g,1%,3mg,1%,5.5g,8%,0.6g,2%,87mg,2%,2.1g,5%,0.9g,49mg,2%,0.2g,4%
+43,Delicious Skillet Chicken Recipe,610.2g,113%,353,119,22.3g,7%,102mg,34%,13.2g,20%,6.3g,25%,1433mg,41%,37.8g,16%,3.2g,448mg,19%,13.6g,100%
+44,Spinach and Feta Pasta Recipe,199.9g,101%,327,127,37.2g,12%,75mg,25%,14.1g,22%,1.7g,7%,522mg,15%,13.7g,32%,6.4g,671mg,28%,3.0g,34%
+45,Lasagna Roll-Ups Recipe,231.9g,79%,289,58,40.2g,13%,41mg,14%,6.4g,10%,4.2g,17%,500mg,14%,15.9g,12%,2.4g,608mg,25%,11.1g,20%
+46,Sloppy Joes Recipe,257.5g,40%,397,56,47.8g,16%,67mg,22%,6.2g,10%,12.1g,48%,1451mg,41%,38.7g,10%,2.0g,88mg,4%,5.1g,89%
+47,Beef Stroganoff Recipe,194.7g,9%,191,58,12.8g,4%,48mg,16%,6.4g,10%,0.5g,2%,395mg,11%,19.6g,12%,2.4g,276mg,12%,5.1g,4%
+48,Kona Chicken Recipe,163.3g,2%,244,31,18.3g,6%,87mg,29%,3.4g,5%,0.2g,1%,250mg,7%,33.0g,4%,0.9g,74mg,3%,17.6g,2%
+49,Parmesan-Seared Chicken Recipe,131.9g,1%,187,63,0.7g,0%,66mg,22%,7.0g,11%,0.1g,0%,21mg,1%,31.6g,12%,2.4g,300mg,12%,0.2g,0%
+50,Chicken Breast Recipe,169.5g,12%,221,39,5.8g,2%,102mg,34%,4.3g,7%,0.7g,3%,428mg,12%,38.1g,6%,1.2g,91mg,4%,0.8g,31%
+51,Cuban Mojo Chicken Recipe,175.8g,5%,286,96,3.9g,1%,126mg,42%,10.7g,16%,0.3g,1%,417mg,12%,41.4g,14%,2.9g,414mg,17%,1.6g,22%
+52,Beef Broccoli Stir-Fry Recipe,133.5g,11%,164,65,5.9g,2%,51mg,17%,7.2g,11%,1.9g,8%,457mg,13%,19.2g,9%,1.9g,132mg,5%,1.4g,75%
+53,Meaty Biscuit Cups Recipe,55.1g,1%,125,48,9.3g,3%,26mg,9%,5.3g,8%,0.4g,2%,162mg,5%,9.6g,8%,1.6g,240mg,10%,0.7g,1%
+54,Grilled Shrimp Salad Recipe,170.1g,8%,74,8,3.6g,1%,111mg,37%,0.9g,1%,1.1g,4%,306mg,9%,12.8g,1%,0.2g,284mg,12%,2.2g,10%
+55,Spicy Tuna and Egg Salad Recipe,129.4g,1%,176,45,7.0g,2%,36mg,12%,5.0g,8%,1.3g,5%,302mg,9%,24.9g,4%,0.8g,175mg,7%,1.1g,1%
+56,Favorite Crockpot Chili Recipe,177.9g,17%,304,40,36.7g,12%,50mg,17%,4.4g,7%,9.4g,38%,1128mg,32%,30.0g,7%,1.5g,71mg,3%,3.1g,27%
+57,Stuffed Cabbage Recipe,311.0g,14%,230,63,27.4g,9%,44mg,15%,7.0g,11%,5.8g,23%,755mg,22%,17.0g,8%,1.6g,320mg,13%,8.8g,77%
+58,Ratatouille Recipe,440.5g,42%,262,132,21.8g,7%,22mg,7%,14.7g,23%,7.6g,30%,1006mg,29%,14.6g,27%,5.3g,442mg,18%,10.5g,153%
+59,Toni's Chicken Brocolli Quiche Recipe,132.0g,12%,177,54,9.5g,3%,139mg,46%,6.0g,9%,0.1g,0%,290mg,8%,20.0g,13%,2.5g,134mg,6%,4.4g,9%
+60,Guilt Free Blueberry Pancakes Recipe,264.4g,13%,149,14,17.6g,6%,1mg,0%,1.6g,2%,2.8g,11%,264mg,8%,15.7g,1%,0.3g,275mg,11%,4.1g,6%
+61,Easy Hamburger Casserole Recipe,344.6g,1%,290,87,23.4g,8%,66mg,22%,9.7g,15%,3.1g,12%,823mg,24%,25.4g,19%,3.7g,464mg,19%,2.3g,39%
+62,Tomato Spinach Soup Recipe,333.7g,64%,79,23,11.8g,4%,0mg,0%,2.5g,4%,3.4g,14%,703mg,20%,4.2g,2%,0.4g,285mg,12%,6.5g,54%
+63,Chicken Chili Recipe,310.5g,43%,190,23,28.7g,10%,20mg,7%,2.6g,4%,7.5g,30%,1052mg,30%,15.0g,3%,0.6g,40mg,2%,7.9g,69%
+64,Parmesean Chicken Recipe,224.0g,2%,421,113,12.6g,4%,157mg,52%,12.6g,19%,1.1g,4%,519mg,15%,60.6g,21%,4.3g,665mg,28%,1.4g,6%
+65,Jessicas Cheesy Chicken Recipe,121.8g,7%,301,148,5.7g,2%,106mg,35%,16.4g,25%,0.3g,1%,256mg,7%,30.8g,39%,7.9g,335mg,14%,0.5g,0%
+66,Barbecued Pulled Chicken Recipe,257.0g,0%,312,18,36.9g,12%,147mg,49%,2.0g,3%,2.4g,10%,442mg,13%,36.1g,4%,0.9g,794mg,33%,27.1g,3%
+67,Low Fat Glazed Chicken in The Crockpot Recipe,154.4g,3%,243,37,13.3g,4%,96mg,32%,4.1g,6%,0.2g,1%,483mg,14%,35.8g,6%,1.1g,85mg,4%,10.6g,65%
+68,Moosewood's Very Creamy Potato-Cheese Soup Recipe,516.8g,62%,426,252,30.0g,10%,63mg,21%,28.0g,43%,3.8g,15%,723mg,21%,14.8g,69%,13.7g,422mg,18%,9.2g,43%
+69,Pork Chops with Mustard and Marmalade Recipe,180.4g,2%,184,64,7.3g,2%,56mg,19%,7.1g,11%,0.7g,3%,516mg,15%,23.1g,8%,1.6g,279mg,12%,2.5g,19%
+70,White Beans & Greens Recipe,282.9g,28%,142,40,19.4g,6%,0mg,0%,4.4g,7%,5.6g,22%,363mg,10%,6.7g,2%,0.4g,56mg,2%,1.6g,10%
+71,Chicken Kabobs Recipe,150.8g,15%,183,31,2.8g,1%,87mg,29%,3.5g,5%,0.6g,2%,281mg,8%,33.2g,5%,0.9g,72mg,3%,1.5g,74%
+72,Crunchy Taco Salad Recipe,444.3g,30%,510,199,37.9g,13%,137mg,46%,22.1g,34%,8.4g,34%,1129mg,32%,42.0g,33%,6.7g,1036mg,43%,8.4g,31%
+73,Crustless Quiche Casserole Recipe,168.7g,14%,171,74,9.2g,3%,60mg,20%,8.2g,13%,1.0g,4%,386mg,11%,15.1g,22%,4.4g,373mg,16%,2.4g,33%
+74,Shrimp with Lemon and Garlic Recipe,33.1g,6%,70,60,2.7g,1%,0mg,0%,6.7g,10%,0.2g,1%,55mg,2%,0.3g,4%,0.9g,3mg,0%,0.5g,25%
+75,Broccoli Stuffed Chicken Recipe,165.7g,9%,396,155,22.6g,8%,105mg,35%,17.2g,26%,2.0g,8%,379mg,11%,36.1g,40%,8.0g,1035mg,43%,2.5g,33%
+76,Sweet and Sour Chicken Recipe,299.1g,34%,215,36,26.9g,9%,42mg,14%,4.0g,6%,3.7g,15%,656mg,19%,18.7g,4%,0.7g,270mg,11%,8.8g,238%
+77,Herbed Mushroom Round Steak Recipe,186.2g,0%,300,131,3.3g,1%,96mg,32%,14.5g,22%,0.5g,2%,582mg,17%,36.5g,24%,4.8g,222mg,9%,1.0g,2%
+78,Turkey Meatballs Recipe,70.0g,1%,104,47,2.2g,1%,49mg,16%,5.2g,8%,0.1g,0%,18mg,1%,12.1g,1%,0.3g,217mg,9%,0.4g,0%
+79,Shrimp Pasta Recipe,369.4g,48%,389,105,59.8g,20%,95mg,32%,11.7g,18%,3.1g,12%,798mg,23%,12.9g,31%,6.1g,46mg,2%,6.5g,57%
+80,Garlic Round Steaks with Vegetables Recipe,280.9g,25%,248,57,11.3g,4%,88mg,29%,6.3g,10%,3.2g,13%,866mg,25%,35.7g,11%,2.2g,92mg,4%,5.1g,134%
+81,Sherry's Chicken Roll Up Casserole Recipe,319.0g,31%,608,206,58.7g,20%,99mg,33%,22.9g,35%,10.4g,42%,318mg,9%,49.6g,45%,9.0g,1412mg,59%,9.8g,74%
+82,Cajun Pork Chops Recipe,117.6g,20%,194,51,1.6g,1%,89mg,30%,5.7g,9%,0.8g,3%,549mg,16%,32.2g,10%,1.9g,646mg,27%,0.2g,3%
+83,Light Chicken Parmesan Recipe,294.4g,42%,146,43,10.5g,4%,42mg,14%,4.8g,7%,3.1g,12%,700mg,20%,16.1g,8%,1.6g,185mg,8%,6.5g,53%
+84,Shauna's Lentil Soup Recipe,321.7g,79%,138,19,22.3g,7%,0mg,0%,2.1g,3%,10.6g,42%,549mg,16%,8.9g,1%,0.3g,342mg,14%,4.9g,18%
+85,Grilled Chicken Breast Sandwich Recipe,196.0g,11%,212,34,14.2g,5%,73mg,24%,3.8g,6%,1.5g,6%,427mg,12%,28.8g,5%,1.0g,190mg,8%,3.6g,16%
+86,Ranch Chicken Recipe,121.9g,3%,320,165,7.6g,3%,90mg,30%,18.3g,28%,0.5g,2%,255mg,7%,29.0g,24%,4.8g,532mg,22%,1.4g,0%
+87,Claire's Black Bean and Beef Chili Recipe,226.6g,19%,294,32,41.0g,14%,37mg,12%,3.6g,6%,10.2g,41%,1321mg,38%,25.8g,6%,1.2g,259mg,11%,5.4g,37%
+88,Crock Pot Stuffed Peppers Recipe,305.4g,15%,264,95,19.0g,6%,77mg,26%,10.6g,16%,3.5g,14%,619mg,18%,23.3g,14%,2.7g,305mg,13%,5.4g,167%
+89,Sesame Chicken Recipe,284.7g,12%,195,56,10.7g,4%,66mg,22%,6.2g,10%,3.1g,12%,333mg,10%,27.1g,5%,1.0g,671mg,28%,1.9g,132%
+90,Chicken Verde Enchiladas Recipe,239.4g,18%,288,32,30.3g,10%,51mg,17%,3.6g,6%,3.1g,12%,294mg,8%,32.3g,4%,0.8g,862mg,36%,2.4g,17%
+91,Tortilla Soup Recipe,480.4g,187%,401,107,34.9g,12%,96mg,32%,11.9g,18%,13.6g,54%,1608mg,46%,42.4g,12%,2.3g,316mg,13%,18.6g,70%
+92,Parmesan Crusted Tilapia Recipe,153.3g,10%,237,105,6.9g,2%,121mg,40%,11.7g,18%,0.4g,2%,50mg,1%,26.0g,15%,3.0g,279mg,12%,0.7g,0%
+93,Turkey Meatloaf Recipe,82.9g,5%,148,64,5.6g,2%,83mg,28%,7.1g,11%,0.6g,2%,190mg,5%,14.5g,9%,1.8g,157mg,7%,1.3g,18%
+94,Tuna Casserole Recipe,126.8g,2%,147,57,13.1g,4%,25mg,8%,6.3g,10%,0.5g,2%,114mg,3%,8.8g,9%,1.9g,417mg,17%,0.2g,0%
+95,French Toast Recipe,53.5g,3%,76,30,6.8g,2%,118mg,39%,3.3g,5%,1.1g,4%,76mg,2%,4.7g,5%,1.0g,107mg,4%,1.4g,1%
+96,No Noodle Zucchini Lasagne Recipe,260.0g,30%,254,83,12.7g,4%,77mg,26%,9.2g,14%,2.0g,8%,700mg,20%,29.6g,23%,4.6g,718mg,30%,4.2g,28%
+97,Tuscan Chicken Recipe,388.3g,63%,386,106,26.7g,9%,96mg,32%,11.8g,18%,6.2g,25%,1013mg,29%,43.0g,12%,2.3g,569mg,24%,2.8g,97%
+98,Garlic and Lemon Tilapia Recipe,183.9g,68%,161,10,9.0g,3%,62mg,21%,1.1g,2%,1.5g,6%,510mg,15%,27.8g,1%,0.2g,118mg,5%,1.9g,14%
+99,Italian Stuffed Zucchini Recipe,344.9g,11%,294,127,18.8g,6%,149mg,50%,14.1g,22%,3.0g,12%,641mg,18%,24.0g,9%,1.9g,786mg,33%,5.0g,58%
+100,"Chicken, Tomato, Bean Crock Pot Soup Recipe",399.4g,28%,260,41,27.5g,9%,44mg,15%,4.6g,7%,7.3g,29%,1100mg,31%,27.6g,5%,0.9g,658mg,27%,5.9g,42%
+101,Fiber Pumpkin Muffins Recipe,133.3g,134%,94,20,16.2g,5%,0mg,0%,2.2g,3%,6.7g,27%,348mg,10%,7.0g,2%,0.4g,129mg,5%,1.7g,6%
+102,Thai Peanut Chicken Recipe,267.4g,0%,500,189,33.3g,11%,96mg,32%,21.0g,32%,2.9g,12%,522mg,15%,44.9g,22%,4.3g,1178mg,49%,7.1g,1%
+103,Cabbage Soup with Beef Recipe,676.0g,22%,196,49,15.0g,5%,0mg,0%,5.4g,8%,4.9g,20%,492mg,14%,22.9g,2%,0.3g,1364mg,57%,8.8g,119%
+104,Greek Garlic Chicken Recipe,138.5g,3%,285,137,2.6g,1%,101mg,34%,15.2g,23%,0.6g,2%,323mg,9%,33.0g,16%,3.2g,389mg,16%,0.4g,13%
+105,Baked Chicken Parmesan Recipe,159.9g,29%,257,52,7.9g,3%,101mg,34%,5.8g,9%,0.7g,3%,434mg,12%,40.7g,10%,2.0g,465mg,19%,0.2g,7%
+106,Crock Pot Enchiladas Recipe,200.0g,9%,280,127,19.0g,6%,53mg,18%,14.1g,22%,3.1g,12%,318mg,9%,18.3g,30%,5.9g,693mg,29%,3.4g,16%
+107,Southwestern Egg Salad Recipe,124.5g,12%,131,66,5.7g,2%,97mg,32%,7.3g,11%,0.5g,2%,195mg,6%,10.4g,7%,1.4g,409mg,17%,2.3g,33%
+108,Chicken Curry Recipe,284.9g,78%,260,41,11.3g,4%,98mg,33%,4.6g,7%,1.3g,5%,677mg,19%,41.0g,6%,1.3g,352mg,15%,7.5g,6%
+109,"Black Beans, Rice & Steak Recipe",180.7g,0%,557,36,89.9g,30%,45mg,15%,4.0g,6%,13.5g,54%,1478mg,42%,39.6g,6%,1.2g,29mg,1%,1.9g,0%
+110,Spinach Chicken Pasta Recipe,224.9g,73%,345,83,37.7g,13%,96mg,32%,9.2g,14%,1.7g,7%,665mg,19%,27.6g,13%,2.6g,1321mg,55%,2.8g,25%
+111,Chicken Stir Fry Recipe,306.2g,46%,520,53,80.0g,27%,72mg,24%,5.9g,9%,5.7g,23%,755mg,22%,35.2g,7%,1.4g,91mg,4%,3.8g,140%
+112,Tofu Burgers Recipe,91.8g,37%,79,30,8.0g,3%,0mg,0%,3.3g,5%,1.1g,4%,185mg,5%,5.6g,2%,0.5g,22mg,1%,1.7g,3%
+113,Beef Broccoli Stir-Fry Recipe,133.5g,11%,164,65,5.9g,2%,51mg,17%,7.2g,11%,1.9g,8%,457mg,13%,19.2g,9%,1.9g,132mg,5%,1.4g,75%
+114,Bacon and Egg Puffs Recipe,48.7g,5%,108,69,3.0g,1%,110mg,37%,7.7g,12%,0.1g,0%,79mg,2%,6.2g,19%,3.7g,182mg,8%,0.8g,1%
+115,Hot-Wing-Flavored Chicken with Ranch Sauce Recipe,201.7g,12%,280,49,15.9g,5%,122mg,41%,5.5g,8%,0.7g,3%,94mg,3%,44.1g,6%,1.2g,263mg,11%,2.9g,4%
+116,Turkey Burgers Recipe,127.0g,11%,258,100,14.0g,5%,108mg,36%,11.1g,17%,1.4g,6%,326mg,9%,24.3g,14%,2.9g,1265mg,53%,1.4g,50%
+117,Apple Pecan Salad Recipe,524.2g,25%,283,115,31.7g,11%,26mg,9%,12.8g,20%,9.1g,36%,858mg,25%,15.8g,7%,1.3g,221mg,9%,20.1g,46%
+118,Crockpot Sour Cream Salsa Chicken Recipe,253.3g,9%,343,88,4.0g,1%,155mg,52%,9.8g,15%,0.8g,3%,475mg,14%,56.2g,20%,4.1g,373mg,16%,1.9g,10%
+119,Spinach Quiche Recipe,486.3g,538%,270,113,19.2g,6%,208mg,69%,12.6g,19%,7.2g,29%,1780mg,51%,24.0g,29%,5.8g,1834mg,76%,4.7g,141%
+120,Fiesta Chicken Recipe,303.7g,34%,338,122,19.5g,6%,96mg,32%,13.5g,21%,6.0g,24%,630mg,18%,33.8g,36%,7.2g,564mg,24%,4.2g,139%
+121,Budget Meals Recipe,106.7g,66%,260,51,38.8g,13%,24mg,8%,5.7g,9%,2.4g,10%,288mg,8%,12.6g,5%,1.0g,42mg,2%,1.2g,3%
+122,Microwave Ratatouille Recipe,545.3g,36%,126,9,28.1g,9%,0mg,0%,1.0g,2%,8.6g,34%,1301mg,37%,6.2g,1%,0.1g,36mg,1%,13.1g,139%
+123,Slow Cooker: Potato & Leek Soup Recipe,342.9g,59%,133,11,24.9g,8%,0mg,0%,1.2g,2%,4.4g,18%,757mg,22%,6.0g,2%,0.3g,1313mg,55%,4.1g,57%
+124,Butternut Squash and Potato Stir Fry Recipe,324.4g,301%,210,29,43.6g,15%,0mg,0%,3.2g,5%,6.8g,27%,1162mg,33%,4.4g,2%,0.5g,50mg,2%,6.0g,102%
+125,Pasta Primavera Salad Recipe,135.7g,43%,251,97,34.4g,11%,0mg,0%,10.8g,17%,3.2g,13%,191mg,5%,6.1g,7%,1.4g,124mg,5%,3.7g,104%
+126,Beefy Pasta Bake Recipe,210.1g,18%,315,84,32.4g,11%,73mg,24%,9.3g,14%,2.4g,10%,740mg,21%,25.4g,24%,4.8g,3154mg,131%,2.6g,58%
+127,Everything Slow Cooker Chicken Fajitas Recipe,210.6g,40%,222,40,8.1g,3%,96mg,32%,4.4g,7%,1.9g,8%,487mg,14%,36.2g,6%,1.2g,90mg,4%,3.8g,197%
+128,Tuna Casserole Recipe,126.8g,2%,147,57,13.1g,4%,25mg,8%,6.3g,10%,0.5g,2%,114mg,3%,8.8g,9%,1.9g,417mg,17%,0.2g,0%
+129,Vegetarian Noodle Stir Fry Recipe,318.8g,18%,429,151,58.1g,19%,53mg,18%,16.8g,26%,4.5g,18%,328mg,9%,13.0g,7%,1.5g,931mg,39%,8.7g,115%
+130,Creamy Lemon Garlic Shrimp Recipe,197.6g,25%,282,86,24.8g,8%,185mg,62%,9.6g,15%,0.7g,3%,428mg,12%,23.7g,14%,2.7g,263mg,11%,1.8g,11%
+131,Vegetarian Chili Recipe,195.3g,26%,327,23,60.1g,20%,0mg,0%,2.6g,4%,14.9g,60%,1519mg,43%,19.6g,2%,0.4g,37mg,2%,6.0g,61%
+132,Chicken Paprika Recipe,265.5g,18%,270,90,13.0g,4%,87mg,29%,10.0g,15%,1.6g,6%,473mg,14%,31.6g,19%,3.8g,420mg,17%,5.4g,15%
+133,Baked Tilapia with Dill Sauce Recipe,207.8g,8%,239,109,11.2g,4%,72mg,24%,12.1g,19%,1.3g,5%,180mg,5%,23.1g,25%,5.0g,208mg,9%,5.3g,43%
+134,Basil Chicken Salad Recipe,137.6g,61%,185,68,5.8g,2%,63mg,21%,7.6g,12%,1.0g,4%,403mg,12%,22.9g,7%,1.4g,213mg,9%,1.5g,20%
+135,General Tsao's Chicken Recipe,171.9g,3%,425,46,83.9g,28%,0mg,0%,5.1g,8%,3.6g,14%,340mg,10%,8.6g,4%,0.9g,606mg,25%,6.5g,2%
+136,Chicken Alfredo with Broccoli Recipe,281.0g,25%,470,183,42.6g,14%,137mg,46%,20.3g,31%,3.2g,13%,666mg,19%,30.3g,49%,9.7g,310mg,13%,2.8g,170%
+137,Thai Basil Eggplant Recipe,339.0g,15%,149,65,20.4g,7%,0mg,0%,7.2g,11%,7.5g,30%,594mg,17%,3.4g,5%,0.9g,1397mg,58%,11.3g,13%
+138,Weight Watchers Simply The Best Crab Enchiladas Recipe,301.9g,31%,243,97,20.2g,7%,39mg,13%,10.8g,17%,2.6g,10%,518mg,15%,17.5g,24%,4.9g,1135mg,47%,6.5g,40%
+139,Turkey Wraps Recipe,114.3g,8%,245,113,9.4g,3%,73mg,24%,12.6g,19%,1.1g,4%,249mg,7%,22.9g,35%,6.9g,209mg,9%,0.5g,2%
+140,"Lower-Cal ""Chicken Margarita"" W/ Wheat Pasta Recipe",170.2g,9%,330,78,37.0g,12%,91mg,30%,8.7g,13%,0.6g,2%,359mg,10%,24.5g,9%,1.9g,159mg,7%,1.4g,10%
+141,Eggplant Ricotta Bake Recipe,388.4g,23%,357,193,23.1g,8%,130mg,43%,21.4g,33%,8.5g,34%,835mg,24%,20.5g,41%,8.2g,2628mg,110%,9.1g,19%
+142,Garlic Baked Chicken Recipe,88.2g,3%,170,67,1.9g,1%,72mg,24%,7.5g,12%,0.1g,0%,215mg,6%,22.4g,13%,2.5g,384mg,16%,0.1g,3%
+143,Potato & Chickpea Curry with Rice Recipe,391.4g,33%,420,41,79.1g,26%,0mg,0%,4.6g,7%,12.7g,51%,1058mg,30%,17.1g,3%,0.6g,219mg,9%,9.0g,48%
+144,Spinach Tofu Postickers Low Cal For Which to Die For Recipe,303.6g,179%,292,64,41.0g,14%,5mg,2%,7.1g,11%,4.0g,16%,866mg,25%,19.2g,5%,1.0g,709mg,30%,1.8g,49%
+145,Baked Ziti Recipe,191.5g,14%,316,115,30.6g,10%,90mg,30%,12.8g,20%,1.5g,6%,361mg,10%,19.2g,34%,6.8g,445mg,19%,5.4g,2%
+146,Shepard's Pie Casserole Recipe,294.1g,11%,288,64,27.6g,9%,72mg,24%,7.1g,11%,4.1g,16%,950mg,27%,27.8g,15%,3.0g,374mg,16%,4.9g,91%
+147,Low Calorie Stuffed Peppers with Ground Turkey Recipe,375.6g,121%,379,47,72.8g,24%,0mg,0%,5.2g,8%,6.9g,28%,696mg,20%,12.4g,5%,1.0g,320mg,13%,10.5g,406%
+148,Salmon Patties Recipe,120.3g,2%,272,145,8.2g,3%,94mg,31%,16.1g,25%,0.2g,1%,386mg,11%,22.1g,15%,3.1g,173mg,7%,0.4g,10%
+149,Spinach Feta Pasta Recipe,63.8g,18%,111,24,16.9g,6%,29mg,10%,2.7g,4%,0.3g,1%,142mg,4%,4.9g,8%,1.5g,119mg,5%,0.9g,7%
+150,Easy Vegan Spaghetti Sauce Recipe,406.7g,56%,146,26,27.6g,9%,0mg,0%,2.9g,4%,5.7g,23%,157mg,4%,5.1g,1%,0.3g,610mg,25%,13.7g,96%
+151,Stuffed Peppers with Cheese Recipe,353.2g,17%,433,96,50.0g,17%,113mg,38%,10.7g,16%,4.0g,16%,855mg,24%,32.8g,25%,5.1g,913mg,38%,6.8g,170%
+152,Homestyle Chicken Noodle Soup Recipe,564.8g,16%,254,49,20.6g,7%,64mg,21%,5.4g,8%,0.9g,4%,628mg,18%,27.8g,7%,1.4g,1576mg,66%,0.6g,1%
+153,"Meatload, Spicy Recipe",274.4g,139%,381,98,21.6g,7%,134mg,45%,10.9g,17%,8.0g,32%,1279mg,37%,49.4g,19%,3.8g,126mg,5%,12.3g,53%
+154,Supper in a Dish Recipe,309.0g,103%,252,53,27.4g,9%,55mg,18%,5.9g,9%,6.8g,27%,949mg,27%,23.8g,12%,2.5g,302mg,13%,8.1g,64%
+155,Zucchini and Pepper Turkey Omelet Recipe,173.5g,17%,119,53,4.2g,1%,25mg,8%,5.9g,9%,1.0g,4%,362mg,10%,12.3g,7%,1.5g,455mg,19%,2.9g,89%
+156,Chicken Tacos Recipe,303.3g,8%,484,137,43.2g,14%,112mg,37%,15.2g,23%,9.4g,38%,690mg,20%,43.2g,38%,7.5g,762mg,32%,1.2g,16%
+157,Easy Italian Beef Recipe,148.4g,15%,178,50,3.4g,1%,76mg,25%,5.6g,9%,0.7g,3%,443mg,13%,27.0g,10%,2.1g,1047mg,44%,1.9g,69%
+158,Healthy Pasta Bake Recipe,191.6g,145%,221,57,31.0g,10%,57mg,19%,6.3g,10%,5.9g,24%,564mg,16%,13.7g,11%,2.2g,137mg,6%,1.5g,42%
+159,Chicken Stew Recipe,345.7g,70%,238,38,32.8g,11%,47mg,16%,4.2g,6%,5.8g,23%,843mg,24%,18.7g,5%,1.1g,160mg,7%,8.6g,39%
+160,French Onion Beef Stew Recipe,401.7g,0%,283,55,19.6g,7%,78mg,26%,6.1g,9%,2.1g,8%,676mg,19%,30.0g,12%,2.3g,570mg,24%,8.3g,15%
+161,Sherry's Sauteed Swiss Chard Recipe,189.9g,74%,75,32,10.4g,3%,0mg,0%,3.5g,5%,2.9g,12%,253mg,7%,2.1g,2%,0.4g,320mg,13%,5.0g,43%
+162,Cashew Chicken Recipe,313.4g,11%,397,192,17.2g,6%,73mg,24%,21.3g,33%,3.5g,14%,845mg,24%,35.7g,22%,4.4g,998mg,42%,5.4g,38%
+163,Balsalmic Garlic Chicken Recipe,92.9g,1%,72,10,3.5g,1%,22mg,7%,1.1g,2%,0.4g,2%,125mg,4%,12.1g,0%,0.1g,109mg,5%,0.6g,3%
+164,Chicken Marsala Recipe,98.3g,7%,292,227,7.9g,3%,31mg,10%,25.2g,39%,0.5g,2%,124mg,4%,1.5g,46%,9.2g,376mg,16%,0.6g,1%
+165,Light Macaroni and Cheese Recipe,214.3g,2%,285,58,40.1g,13%,23mg,8%,6.5g,10%,2.0g,8%,176mg,5%,16.0g,17%,3.4g,372mg,15%,5.0g,1%
+166,Chicken Wrap Recipe,180.6g,9%,233,76,10.2g,3%,80mg,27%,8.4g,13%,1.2g,5%,383mg,11%,28.3g,14%,2.8g,144mg,6%,1.9g,9%
+167,Butternut Squash Gratin Recipe,141.1g,83%,226,113,17.8g,6%,33mg,11%,12.6g,19%,2.1g,8%,342mg,10%,10.7g,26%,5.1g,578mg,24%,5.3g,18%
+168,Egg Salad Recipe,64.2g,2%,77,43,2.0g,1%,73mg,24%,4.8g,7%,0.1g,0%,98mg,3%,5.8g,4%,0.8g,170mg,7%,0.5g,1%
+169,Chicken Sesame Recipe,269.6g,3%,426,179,3.5g,1%,149mg,50%,19.9g,31%,0.5g,2%,554mg,16%,55.0g,21%,4.2g,464mg,19%,1.9g,17%
+170,Lemon Mustard Chicken Recipe,96.4g,1%,186,69,0.9g,0%,73mg,24%,7.7g,12%,0.3g,1%,239mg,7%,26.8g,8%,1.5g,92mg,4%,0.1g,3%
+171,"Tomato, Bean, Cabbage Soup Recipe",428.2g,196%,195,13,37.7g,13%,0mg,0%,1.5g,2%,10.7g,43%,1305mg,37%,11.5g,1%,0.3g,822mg,34%,9.7g,159%
+172,Veggie Stuffed Pita Bread Recipe,280.2g,19%,268,53,42.0g,14%,21mg,7%,5.9g,9%,3.9g,16%,535mg,15%,12.0g,13%,2.5g,863mg,36%,5.2g,54%
+173,Arroz Con Pollo Recipe,495.8g,35%,579,126,61.6g,21%,126mg,42%,14.0g,22%,2.3g,9%,628mg,18%,48.1g,36%,7.2g,1433mg,60%,3.4g,111%
+174,Chicken Stir Fry Recipe,306.2g,46%,520,53,80.0g,27%,72mg,24%,5.9g,9%,5.7g,23%,755mg,22%,35.2g,7%,1.4g,91mg,4%,3.8g,140%
+175,Claire's Tamale Pie Recipe,322.4g,8%,263,75,27.3g,9%,50mg,17%,8.3g,13%,3.3g,13%,447mg,13%,20.4g,9%,1.8g,347mg,14%,1.8g,10%
+176,Crockpot Chicken Recipe,218.9g,8%,322,110,3.0g,1%,128mg,43%,12.2g,19%,0.7g,3%,444mg,13%,47.3g,12%,2.4g,114mg,5%,0.9g,3%
+177,New Potato Summer Salad Recipe,207.5g,4%,187,49,30.4g,10%,4mg,1%,5.4g,8%,4.3g,17%,733mg,21%,4.7g,4%,0.9g,318mg,13%,3.5g,60%
+178,Grilled Sea Scallops Recipe,153.7g,1%,200,90,4.4g,1%,37mg,12%,10.0g,15%,0.1g,0%,402mg,11%,19.2g,6%,1.3g,184mg,8%,0.9g,6%
+179,Keri's Vegetable Pasta Bake Recipe,266.8g,13%,384,148,36.5g,12%,66mg,22%,16.4g,25%,3.5g,14%,626mg,18%,20.6g,27%,5.3g,899mg,37%,10.9g,11%
+180,Sylvia's Veggie Chilli Recipe,277.3g,22%,239,17,38.9g,13%,0mg,0%,1.9g,3%,10.8g,43%,1150mg,33%,19.2g,0%,0.1g,652mg,27%,3.1g,46%
+181,Enchilada Pie Recipe,198.8g,16%,302,130,13.6g,5%,87mg,29%,14.5g,22%,2.8g,11%,529mg,15%,29.4g,31%,6.2g,645mg,27%,2.9g,9%
+182,Asparagus and Chicken Linguine Recipe,384.6g,12%,539,111,45.2g,15%,184mg,61%,12.3g,19%,1.2g,5%,730mg,21%,58.7g,13%,2.5g,449mg,19%,1.0g,10%
+183,Lemon Garlic Angel Hair Pasta Recipe,146.7g,8%,222,29,35.9g,12%,43mg,14%,3.2g,5%,0.6g,2%,255mg,7%,8.0g,3%,0.7g,57mg,2%,1.9g,22%
+184,Thai Chicken Curry Recipe,357.2g,89%,251,77,15.2g,5%,72mg,24%,8.5g,13%,3.4g,14%,608mg,17%,31.0g,27%,5.5g,844mg,35%,5.4g,132%
+185,Julie's Seafood Salad Recipe,138.7g,24%,104,23,7.9g,3%,57mg,19%,2.6g,4%,1.6g,6%,325mg,9%,12.3g,1%,0.1g,296mg,12%,5.0g,105%
+186,Spinach & Black Bean Enchilada Recipe,87.9g,35%,204,72,23.2g,8%,18mg,6%,8.0g,12%,4.6g,18%,391mg,11%,11.7g,21%,4.2g,201mg,8%,0.7g,10%
+187,Chicken Stir Fry Recipe,306.2g,46%,520,53,80.0g,27%,72mg,24%,5.9g,9%,5.7g,23%,755mg,22%,35.2g,7%,1.4g,91mg,4%,3.8g,140%
+188,Bruscetta Chicken Bake Recipe,322.0g,12%,447,103,31.5g,11%,135mg,45%,11.4g,18%,2.0g,8%,686mg,20%,52.4g,23%,4.6g,982mg,41%,8.1g,16%
+189,White Chili Southwestern Style Recipe,190.1g,2%,222,19,27.6g,9%,36mg,12%,2.1g,3%,7.7g,31%,533mg,15%,23.1g,3%,0.5g,444mg,19%,0.8g,5%
+190,Chicken Soup Recipe,236.6g,39%,83,15,3.2g,1%,30mg,10%,1.7g,3%,0.9g,4%,266mg,8%,12.9g,2%,0.4g,299mg,12%,1.2g,9%
+191,Beef Stroganoff Recipe,194.7g,9%,191,58,12.8g,4%,48mg,16%,6.4g,10%,0.5g,2%,395mg,11%,19.6g,12%,2.4g,276mg,12%,5.1g,4%
+192,Broccoli Cheddar Bake Recipe,195.8g,18%,167,76,7.6g,3%,21mg,7%,8.5g,13%,1.7g,7%,467mg,13%,15.3g,22%,4.4g,266mg,11%,3.9g,88%
+193,Veggie Mushroom Burger Recipe,112.3g,1%,47,10,6.7g,2%,31mg,10%,1.1g,2%,1.3g,5%,287mg,8%,3.7g,1%,0.2g,97mg,4%,2.6g,6%
+194,Feta Chicken Recipe,148.5g,3%,289,94,6.0g,2%,122mg,41%,10.4g,16%,0.3g,1%,321mg,9%,40.1g,27%,5.4g,450mg,19%,1.5g,0%
+195,Shepards Pie Recipe,343.0g,18%,272,76,12.4g,4%,86mg,29%,8.4g,13%,2.2g,9%,812mg,23%,34.4g,19%,3.7g,990mg,41%,1.7g,26%
+196,Grilled Rosemary Chicken Thighs Recipe,197.7g,2%,328,109,2.8g,1%,131mg,44%,12.1g,19%,0.8g,3%,360mg,10%,49.5g,12%,2.4g,254mg,11%,0.6g,10%
+197,Light Beef Burrito Recipe,245.5g,9%,386,78,33.7g,11%,53mg,18%,8.7g,13%,14.6g,58%,267mg,8%,40.1g,11%,2.2g,1162mg,48%,0.6g,0%
+198,Lasagna Recipe,281.0g,37%,377,116,31.5g,10%,100mg,33%,12.9g,20%,3.6g,14%,731mg,21%,33.6g,33%,6.6g,1985mg,83%,3.7g,37%
